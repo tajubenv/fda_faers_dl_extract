@@ -300,3 +300,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# Ignore Data Files
+/TEST
